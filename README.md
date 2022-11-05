@@ -4,3 +4,7 @@ I am a recently graduated machine learning engineer. I love designing and develo
 
 My previous GitHub is: https://github.com/AnnemarieJu, unfortunately it is subscribed to my old university email, so I have been locked out.
 
+Public projects I have worked on:
+- github.com/M-Nauta/Explaining_Prototypes
+- github.com/robertoost/wet-planets
+- github.com/vikkyb/ITech-week2-assignment
